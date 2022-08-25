@@ -20,5 +20,7 @@
 
 <h3 align="left">Languages and Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abjoseph&layout=compact" alt="abjoseph" /></p> <br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abjoseph&layout=compact" alt="abjoseph" /></p> 
+<br>
+<br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abjoseph&show_icons=true" alt="abjoseph" /></p>
