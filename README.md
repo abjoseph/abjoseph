@@ -2,15 +2,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abjoseph&label=Profile%20views&color=0e75b6&style=flat" alt="abjoseph" /> </p>
 
-<p>
-  <a href="https://www.rearc.io/careers/"/>
-    <h2>Employment</h2>
-  </a>
-</p>
 
-<img src="https://www.rearc.io/wp-content/uploads/2018/11/Logo.png" width="96">
+<h2>Employment</h2>
+
+<a href="https://www.rearc.io/careers/"/><img src="https://www.rearc.io/wp-content/uploads/2018/11/Logo.png" width="96"></a>
 
 - Senior Cloud/DevOps Engineer (Apr 2021 - Present)
+
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
@@ -20,7 +18,12 @@
 
 <h3 align="left">Languages and Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abjoseph&layout=compact" alt="abjoseph" /></p> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abjoseph&layout=compact" alt="abjoseph" /></p>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abjoseph&show_icons=true" alt="abjoseph" /></p>
