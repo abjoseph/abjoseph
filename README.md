@@ -9,8 +9,6 @@
 ---
 ### :briefcase: Employment
 
-<a href="https://www.rearc.io/careers/"/><img src="https://www.rearc.io/wp-content/uploads/2018/11/Logo.png" width="96"></a>
-
 - Senior Cloud/DevOps Engineer (Apr 2021 - Present)
 
 ---
