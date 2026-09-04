@@ -2,12 +2,6 @@
 
 <p align="center"><img src="https://media.giphy.com/media/vrKysSwkyiYm2mKtfe/giphy.gif" height="128"/></p>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/abjoseph-ag/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=abjoseph&label=Profile%20views&color=0e75b6&style=flat" alt="abjoseph" /> </p>
-
 ### :man_technologist: &nbsp;About Me :
 
 
